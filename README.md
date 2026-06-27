@@ -41,7 +41,7 @@ Pages 1–19 (copyright, TOC, Roman preface) are **never embedded**.
 
 ```bash
 # Sibling layout (recommended)
-git clone <this-repo> mortgage-extraction-data
+git clone https://github.com/kiran7893/mortgage-extraction-data.git mortgage-extraction-data
 git clone https://github.com/santuv15-sudo/mortgage-rag-backend.git mortgage-rag
 
 cd mortgage-rag
