@@ -1,0 +1,8 @@
+# Source PDFs — add locally; do not commit
+sources/pdf/*.pdf
+*.pdf
+
+# OS / editor
+.DS_Store
+*.swp
+*~

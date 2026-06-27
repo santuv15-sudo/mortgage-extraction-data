@@ -1,0 +1,126 @@
+{
+  "segments": [
+    {
+      "key": "20-120",
+      "start_page": 20,
+      "end_page": 120,
+      "batches": [
+        "batch_020-120.json"
+      ],
+      "completed_at": "2026-06-27T07:53:26+00:00"
+    },
+    {
+      "key": "121-221",
+      "start_page": 121,
+      "end_page": 221,
+      "batches": [
+        "batch_121-221.json"
+      ],
+      "completed_at": "2026-06-27T07:53:50+00:00"
+    },
+    {
+      "key": "222-322",
+      "start_page": 222,
+      "end_page": 322,
+      "batches": [
+        "batch_222-322.json"
+      ],
+      "completed_at": "2026-06-27T07:54:14+00:00"
+    },
+    {
+      "key": "323-423",
+      "start_page": 323,
+      "end_page": 423,
+      "batches": [
+        "batch_323-423.json"
+      ],
+      "completed_at": "2026-06-27T07:54:38+00:00"
+    },
+    {
+      "key": "424-524",
+      "start_page": 424,
+      "end_page": 524,
+      "batches": [
+        "batch_424-524.json"
+      ],
+      "completed_at": "2026-06-27T07:55:02+00:00"
+    },
+    {
+      "key": "525-625",
+      "start_page": 525,
+      "end_page": 625,
+      "batches": [
+        "batch_525-625.json"
+      ],
+      "completed_at": "2026-06-27T07:55:27+00:00"
+    },
+    {
+      "key": "626-726",
+      "start_page": 626,
+      "end_page": 726,
+      "batches": [
+        "batch_626-726.json"
+      ],
+      "completed_at": "2026-06-27T07:56:04+00:00"
+    },
+    {
+      "key": "727-827",
+      "start_page": 727,
+      "end_page": 827,
+      "batches": [
+        "batch_727-827.json"
+      ],
+      "completed_at": "2026-06-27T07:56:37+00:00"
+    },
+    {
+      "key": "828-928",
+      "start_page": 828,
+      "end_page": 928,
+      "batches": [
+        "batch_828-928.json"
+      ],
+      "completed_at": "2026-06-27T07:57:17+00:00"
+    },
+    {
+      "key": "929-1029",
+      "start_page": 929,
+      "end_page": 1029,
+      "batches": [
+        "batch_929-1029.json"
+      ],
+      "completed_at": "2026-06-27T07:57:54+00:00"
+    },
+    {
+      "key": "1030-1130",
+      "start_page": 1030,
+      "end_page": 1130,
+      "batches": [
+        "batch_1030-1130.json"
+      ],
+      "completed_at": "2026-06-27T07:58:29+00:00"
+    },
+    {
+      "key": "1131-1188",
+      "start_page": 1131,
+      "end_page": 1188,
+      "batches": [
+        "batch_1131-1188.json"
+      ],
+      "completed_at": "2026-06-27T07:59:03+00:00"
+    }
+  ],
+  "completed": [
+    "1030-1130",
+    "1131-1188",
+    "121-221",
+    "20-120",
+    "222-322",
+    "323-423",
+    "424-524",
+    "525-625",
+    "626-726",
+    "727-827",
+    "828-928",
+    "929-1029"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "body_start_pdf_page_configured": 20,
+  "body_start_pdf_page_detected": 20,
+  "body_start_mismatch": false,
+  "noise_pages_skipped": 0,
+  "toc_lines_filtered": 0,
+  "front_matter_filtered": 3717,
+  "noise_by_type": {
+    "front_matter": 3717,
+    "glossary": 26
+  },
+  "topic_count": 390,
+  "topics_with_blocks": 390,
+  "empty_topics": [],
+  "chunk_count": 1467,
+  "toc_lines_in_chunks": 0,
+  "expected_topics_found": {
+    "A1-1-01": true,
+    "A2-1-01": true
+  },
+  "missing_expected_topics": [],
+  "passed": true
+}
