@@ -1,0 +1,9 @@
+{
+  "source_pdf": "Newrez HomeReady_Profile.pdf",
+  "document": "Newrez HomeReady Profile",
+  "investor": "Newrez",
+  "total_pdf_pages": 19,
+  "chunk_count": 21,
+  "parser": "pypdfium2-lite v2",
+  "parsed_at": "2026-06-27T17:59:59+00:00"
+}

@@ -1,0 +1,9 @@
+{
+  "source_pdf": "Newrez FHA_Standard_Refinance_Profile.pdf",
+  "document": "Newrez FHA Standard Refinance Profile",
+  "investor": "Newrez",
+  "total_pdf_pages": 15,
+  "chunk_count": 17,
+  "parser": "pypdfium2-lite v2",
+  "parsed_at": "2026-06-27T17:59:59+00:00"
+}

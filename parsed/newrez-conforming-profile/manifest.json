@@ -1,0 +1,9 @@
+{
+  "source_pdf": "Newrez Conforming_Profile.pdf",
+  "document": "Newrez Conforming Profile",
+  "investor": "Newrez",
+  "total_pdf_pages": 24,
+  "chunk_count": 27,
+  "parser": "pypdfium2-lite v2",
+  "parsed_at": "2026-06-27T17:59:59+00:00"
+}

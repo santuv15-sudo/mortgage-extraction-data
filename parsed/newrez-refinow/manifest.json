@@ -1,0 +1,9 @@
+{
+  "source_pdf": "Newrez RefiNow.pdf",
+  "document": "Newrez RefiNow",
+  "investor": "Newrez",
+  "total_pdf_pages": 12,
+  "chunk_count": 13,
+  "parser": "pypdfium2-lite v2",
+  "parsed_at": "2026-06-27T18:00:00+00:00"
+}

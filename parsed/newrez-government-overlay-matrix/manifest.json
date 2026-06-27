@@ -1,0 +1,9 @@
+{
+  "source_pdf": "NewRez_Government_Overlay_Matrix.pdf",
+  "document": "Newrez Government Overlay Matrix",
+  "investor": "Newrez",
+  "total_pdf_pages": 12,
+  "chunk_count": 10,
+  "parser": "pypdfium2-lite v2",
+  "parsed_at": "2026-06-27T17:59:59+00:00"
+}
