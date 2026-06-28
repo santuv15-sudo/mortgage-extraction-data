@@ -1,0 +1,9 @@
+{
+  "source_pdf": "Newrez FHA_Purchase_Profile.pdf",
+  "document": "Newrez FHA Purchase Profile",
+  "investor": "Newrez",
+  "total_pdf_pages": 12,
+  "chunk_count": 12,
+  "parser": "pypdfium2-lite v2",
+  "parsed_at": "2026-06-27T17:59:59+00:00"
+}

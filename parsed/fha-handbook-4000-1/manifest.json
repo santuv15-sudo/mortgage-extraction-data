@@ -1,0 +1,12 @@
+{
+  "source_pdf": "FHA 40001-hsgh-Update-17.pdf",
+  "document": "FHA Handbook 4000.1",
+  "investor": "FHA",
+  "total_pdf_pages": 1886,
+  "chunk_count": 2044,
+  "parser": "pypdfium2-lite v3",
+  "parsed_at": "2026-06-27T18:15:33+00:00",
+  "skip_pages": 29,
+  "page_basis": "handbook page",
+  "context": "part/subpart/section/subheading"
+}

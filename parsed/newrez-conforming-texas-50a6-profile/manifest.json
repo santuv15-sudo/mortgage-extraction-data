@@ -1,0 +1,9 @@
+{
+  "source_pdf": "Newrez Conforming_Texas_50a6_Profile.pdf",
+  "document": "Newrez Conforming Texas 50a6 Profile",
+  "investor": "Newrez",
+  "total_pdf_pages": 11,
+  "chunk_count": 11,
+  "parser": "pypdfium2-lite v2",
+  "parsed_at": "2026-06-27T17:59:59+00:00"
+}
