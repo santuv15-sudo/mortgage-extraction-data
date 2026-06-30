@@ -1,0 +1,11 @@
+{
+  "source_pdf": "FNMA EligMtx_04.01.2026_updated 05-21-2026.pdf",
+  "document": "FNMA Eligibility Matrix",
+  "investor": "Fannie Mae",
+  "total_pdf_pages": 9,
+  "chunk_count": 9,
+  "parser": "camelot-lattice (matrices) + pdfplumber text (notes) v4",
+  "doc_hash": "081a6d897c079977dbc79026e46e4edcd59a83e65ad815141302e204d5edab7d",
+  "doc_published": "2026-04-01",
+  "parsed_at": "2026-06-30T10:06:04+00:00"
+}
